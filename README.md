@@ -26,3 +26,7 @@ $$NCSKEW_{i,t}=-\frac{[n(n-1)^{3/2}\sum W_{i,t}^3]}{[(n-1)(n-2)(\sum W_{i,t}^2)^
 $$DUVOL_{i,t}=log\frac{(n_{u}-1)\sum_{D}W_{i,t}^2}{(n_{d}-1)\sum_{U}W_{i,t}^2}$$
 
 其中， $n_u$ 表示其 $W_{i,t}$ 大于年平均 $W_{i,t}$ 的周数， $n_d$ 表示其 $W_{i,t}$ 小于年平均 $W_{i,t}$ 的周数。
+
+# Code & Data
+
+[GitHub](https://github.com/ShutterZor/Stock-Price-Crash-Risk)、[Gitee](https://gitee.com/Shutter_Zor/Stock-Price-Crash-Risk)
