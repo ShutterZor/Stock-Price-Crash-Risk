@@ -1,6 +1,6 @@
 ********************** Author Information **************************************
 /*
-Author: 		Shutter Zor（左祥太）
+Author:			Shutter Zor（左祥太）
 Affiliation:		School of Management, Xiamen University
 Date:			2023/5/4
 Email:			Shutter_Z@outlook.com
