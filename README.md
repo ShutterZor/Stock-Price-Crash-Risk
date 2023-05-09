@@ -30,3 +30,7 @@ $$DUVOL_{i,t}=log\frac{(n_{u}-1)\sum_{D}W_{i,t}^2}{(n_{d}-1)\sum_{U}W_{i,t}^2}$$
 # Code & Data
 
 [GitHub](https://github.com/ShutterZor/Stock-Price-Crash-Risk)、[Gitee](https://gitee.com/Shutter_Zor/Stock-Price-Crash-Risk)
+
+# Video & Post
+
+[Bilibili/B站视频](https://www.bilibili.com/video/BV13s4y197ne/?vd_source=eabf2bfb3566fec2d8cf70a6545702f0)、[WeChat Official Account Post/微信公众号推文](https://gitee.com/Shutter_Zor/Stock-Price-Crash-Risk)
