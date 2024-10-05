@@ -64,7 +64,7 @@ use MergeData.dta, clear
 		levelsof year, local(yrs)
 		foreach yr of local yrs {
 			reg Wretwd L2.Wretwdos L1.Wretwdos Wretwdos F1.Wretwdos F2.Wretwdos if year == "`yr'"
-			predict e`yr'
+			predict e`yr', residuals
 			replace e`yr' = 0 if e`yr' == . | year != "`yr'"
 		}
 		egen e = rowtotal(e*)
